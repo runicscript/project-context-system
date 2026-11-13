@@ -7,3 +7,6 @@ __pycache__/
 .venv/
 .DS_Store
 .zcode/
+
+# 租户私有内容（README 内容正主、真实标识），不入公开仓库
+write_readme_doc.py
